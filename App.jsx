@@ -18,6 +18,7 @@ class App extends React.Component{
                 <p> This is the main content of my React Application </p>
                 <p data-azizattr = "azizattr"> This is from attribute </p>
                 <h1>{1+1}</h1>
+                <h1>{5+5}</h1>
                 <button>42</button> 
             </div>
 
