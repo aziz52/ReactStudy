@@ -114,7 +114,7 @@ class App extends React.Component{
        this.setState(prevState => ({
            cards: prevState.cards.concat(cardInfo)
 
-       }));
+        }));
    }
     // state = {
     //     cards :[
